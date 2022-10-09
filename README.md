@@ -1,18 +1,17 @@
 [![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)](https://Fina171.io)
-<h1 align="center">Hi, Im Fina Fatimah</h1>
+<h1 align="center">Hi, Im M Iqbal Ferdiansyah</h1>
 <h3 align="center">A Programmer From SMK Yadika Soreang</h3>
+<h4 align="center">Im Front End Developer</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fina171&label=Profile%20views&color=0e75b6&style=flat" alt="fina171" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iqblfrdsyh&label=Profile%20views&color=0e75b6&style=flat" alt="iqblfrdsyh" /> </p>
 
 - :telescope: I’m Studying at **Yadika Soreang Vocational High School**
 
 - :seedling: I’m currently learning **Bootstrap**
 
-- :man_technologist: My Biodata are avaible at [Biodata](https://fina171.github.io/Biodata)
+- :man_technologist: My Biodata are avaible at [Biodata](https://iqblfrdsyh.netlify.app)
 
-- :mailbox: How to reach me **+62 882-0010-46355**
-
-- :zap: Fun Fact **I am a Beautiful girl and Smart**
+- :mailbox: How to reach me **+62 896-7154-2333**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
