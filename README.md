@@ -18,11 +18,6 @@
 <a href="https://instagram.com/iqblfrdsyh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iqblfrdsyh" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">My Skills:</h3>
-<p align="left"> 
-
-</p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iqblfrdsyh&show_icons=true&theme=gotham&layout=compact" alt="iqblfrdsyh" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=iqblfrdsyh&show_icons=true&theme=gotham" alt="iqblfrdsyh" /></p>
