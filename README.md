@@ -9,7 +9,7 @@
 
 - :seedling: I’m currently learning **to be a backend developer**
 
-- :man_technologist: My website are avaible at [https://iqbalfrdsyh.netlify.app](https://iqblfrdsyh.netlify.app)
+- :man_technologist: My website are avaible at [https://iqbalfrdsyh.netlify.app](https://iqbal-ferdiansyah-dev.vercel.app)
 
 - :mailbox: How to reach me **+62 896-7154-2333**
 
