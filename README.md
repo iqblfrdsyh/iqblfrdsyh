@@ -1,17 +1,16 @@
 #                                                                       Welcome To My Github
 [![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)](https://iqblfrdsyh.netlify.app)
 <h1 align="center">Hi, Im M Iqbal Ferdiansyah</h1>
-<h3 align="center">A Programmer From SMK Yadika Soreang</h3>
 <h4 align="center">Im Front End Developer</h4>
 
 
-- :telescope: I’m Studying at **Yadika Soreang Vocational High School**
+- :telescope: I’m Studying at **Universitas Komputer Indonesia**
 
 - :seedling: I’m currently learning **to be a backend developer**
 
 - :man_technologist: My website are avaible at [My Website Portofolio](https://iqbal-ferdiansyah-dev.vercel.app)
 
-- :mailbox: How to reach me **+62 896-7154-2333**
+- :mailbox: How to reach me **+62 838-3239-7149**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
