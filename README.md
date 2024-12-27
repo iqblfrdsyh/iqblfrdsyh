@@ -23,7 +23,7 @@
 <a href="https://instagram.com/i.frdsyh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i.frdsyh" height="30" width="40" /></a>
 </p>
 
-##  <b>Languages and Tools</b>
+## 💻 <b>Languages and Tools</b>
 
 <table>
     <tr>
