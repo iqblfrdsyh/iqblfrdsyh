@@ -67,3 +67,8 @@
 ## <img src="https://media.giphy.com/media/Mp5uJLEE9Ompq/giphy.gif" width="25"> <b>GitHub Streak</b>
 
 <p align="center"> <img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=iqblfrdsyh&theme=react" /> </p>
+
+-----
+Credits: [iqblfrdsyh](https://github.com/iqblfrdsyh)
+
+Last Edited on: 28/12/2024
