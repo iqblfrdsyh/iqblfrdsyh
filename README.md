@@ -15,8 +15,6 @@
 
 - 💬 Ask me about **Web Development or other Technology**
 
-- 📫 How to reach me **iqblfrdsyh@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/iqblfrdsyh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iqblfrdsyh" height="30" width="40" /></a>
