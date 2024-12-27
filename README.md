@@ -8,6 +8,8 @@
 - 🔭 I’m currently Studying At **Universitas Komputer Indonesia**
 
 - 🌱 I’m currently learning **to be Backend Developer**
+  
+- 🎯 My goal is to become a **Fullstack Developer**
 
 - 👨‍💻 All of my projects are available at [https://iqbalferdiansyah-code.vercel.app](https://iqbalferdiansyah-code.vercel.app)
 
