@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iqblfrdsyh&label=Profile%20views&color=0e75b6&style=flat" alt="iqblfrdsyh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iqblfrdsyh" alt="iqblfrdsyh" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/iqblfrdsyh" target="blank"><img src="https://img.shields.io/twitter/follow/iqblfrdsyh?logo=twitter&style=for-the-badge" alt="iqblfrdsyh" /></a> </p>
 
 - 🔭 I’m currently Studying At **Universitas Komputer Indonesia**
