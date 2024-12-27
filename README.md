@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />, I'm M Iqbal Ferdiansyah</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iqblfrdsyh&label=Profile%20views&color=0e75b6&style=flat" alt="iqblfrdsyh" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=iqblfrdsyh&label=Profile%20views&color=0e75b6&style=flat" alt="iqblfrdsyh" /> </p>
 
 <img align="right" top="500" height="270" width="400" alt="GIF" src="https://github.com/sharif-islam96403/sharif-islam96403/blob/main/CatCode.gif">
 
