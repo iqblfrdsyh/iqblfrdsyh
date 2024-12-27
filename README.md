@@ -61,3 +61,9 @@
 ![iqblfrdsyh's Stats](https://github-readme-stats.vercel.app/api?username=iqblfrdsyh&theme=react&show_icons=true&hide_border=false&count_private=true)
 
 ![iqblfrdsyh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iqblfrdsyh&theme=react&show_icons=true&hide_border=false&layout=compact)
+
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/iqblfrdsyh/iqblfrdsyh/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
