@@ -59,6 +59,5 @@
         <td><img height="40" src="https://skillicons.dev/icons?i=windows,linux,ubuntu"/></td>
     </tr>
 </table>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iqblfrdsyh&show_icons=true&locale=en&layout=compact" alt="iqblfrdsyh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iqblfrdsyh&show_icons=true&locale=en" alt="iqblfrdsyh" /></p>
+![iqblfrdsyh's Stats](https://github-readme-stats.vercel.app/api?username=iqblfrdsyh&theme=react&show_icons=true&hide_border=false&count_private=true)
