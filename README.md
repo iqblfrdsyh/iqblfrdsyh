@@ -72,6 +72,14 @@
 
 <p align="center"> <img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=iqblfrdsyh&theme=react" /> </p>
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/iqblfrdsyh/iqblfrdsyh/output/snake.svg" alt="Snake animation" />
+
+###
+
 -----
 Credits: [iqblfrdsyh](https://github.com/iqblfrdsyh)
 
